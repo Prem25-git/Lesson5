@@ -14,6 +14,7 @@
     console.log(`tax(10%):$${tax}`);
 
     const totalcost = cost + tax ;
+    console.log(`totalcost:$${totalcost}`);
 
 
   </script>  
