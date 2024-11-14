@@ -19,7 +19,7 @@
     ">+2</button>
 
     <button onclick="
-      cartQuantity = cartQuantity + 3;
+      cartQuantity += 3;
       console.log(`Cart quantity: ${cartQuantity}`);
     ">+3</button>
 
